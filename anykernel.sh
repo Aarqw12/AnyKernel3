@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=-- KERNEL REBORN PREMIUM OSS --
+kernel.string= KERNEL REBORN 11 --open-source project --
 do.devicecheck=1
 do.modules=0
 do.systemless=1
